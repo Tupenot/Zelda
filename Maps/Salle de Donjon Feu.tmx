@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="2018.04.18" orientation="orthogonal" renderorder="right-down" width="68" height="53" tilewidth="16" tileheight="16" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" name="tiles" tilewidth="16" tileheight="16" margin="16" tilecount="312" columns="24">
+  <image source="../../Tiled Map/Tiled Map/tiles.png" width="400" height="224"/>
+ </tileset>
+ <tileset firstgid="313" name="Outside Objects" tilewidth="16" tileheight="16" margin="16" tilecount="3969" columns="63">
+  <image source="../Outside Objects.png" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="4282" name="Terrain1" tilewidth="16" tileheight="16" margin="16" tilecount="77" columns="11">
+  <image source="../Terrain1.png" width="192" height="128"/>
+ </tileset>
+ <tileset firstgid="4359" name="Terrain2" tilewidth="16" tileheight="16" margin="16" tilecount="8001" columns="63">
+  <image source="../Terrain2.png" width="1024" height="2048"/>
+ </tileset>
+ <tileset firstgid="12360" name="Terrain and Outside" tilewidth="16" tileheight="16" margin="16" tilecount="3969" columns="63">
+  <image source="../Terrain and Outside.png" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="16329" name="Terrain3" tilewidth="16" tileheight="16" margin="16" tilecount="1845" columns="41">
+  <image source="../Terrain3.png" width="672" height="736"/>
+ </tileset>
+ <tileset firstgid="18174" name="index" tilewidth="16" tileheight="16" margin="16" tilecount="255" columns="17">
+  <image source="../../../zp_s2/index.png" width="288" height="256"/>
+ </tileset>
+ <tileset firstgid="18429" name="6" tilewidth="16" tileheight="16" margin="16" tilecount="187" columns="17">
+  <image source="../../../zp_s2/6.png" width="288" height="192"/>
+ </tileset>
+ <tileset firstgid="18616" name="5" tilewidth="16" tileheight="16" margin="16" tilecount="323" columns="17">
+  <image source="../../../zp_s2/5.png" width="288" height="320"/>
+ </tileset>
+ <tileset firstgid="18939" name="PokemonLike" tilewidth="16" tileheight="16" margin="16" tilecount="1521" columns="39">
+  <image source="../PokemonLike.png" width="640" height="640"/>
+ </tileset>
+ <layer name="Calque 1" width="68" height="53">
+  <data encoding="base64" compression="zlib">
+   eJzt0TERgDAAwMBawnJRBgs26DFgIT90yL2AzGOMczW3n9fq3v7WPzTrH5r1D836h2b9Q7P+oVn/0Kx/aNY/NOsfmvUPzfqHZv1Ds/6hWf/QrH9o1j806x+a9Q/N+odm/UOz/qFZ/9Csf2jWPzTrH5r1D836h2b9Q7P+oVn/0Kx/aNY/NOsfmvUPzfqHZv1Ds/6hWf/QrH9o1j806x+a9Q/N+odm/UOz/qFZ/9Csf2jWPzTrH5oP8kXxBexgVac=
+  </data>
+ </layer>
+ <layer name="Calque 2" width="68" height="53">
+  <data encoding="base64" compression="zlib">
+   eJztmelOwkAURnkRF9C2KC7RpPo6LqAFE1/JBdT4g1dyAUVNeAi/xpjMnV5TG530tnNPcoJLUb7zq80kO41GHw6M1++vf2vR66X8bfv/nMEEKl+YPdZj+rstfL8dZ99TZdKNHbgBN+PsRrNHv2bbObiN5z/04Bh70GhcoMe8Zj3emD3zAj06e///mcokZPaYG80ePebaQc165G00e4yYa+9r1iNvo9ljylz7XrMeeRvNHq397LUR87Mqk7dR708p2oOiPSjag6I9KBJ6BLhfDmEE23CtxGcECT262N+DJ/AUJp73GGL/CN7AW3jneY8J9k/hC3yFM897NHG/3IIrcBUGJT4jSOhxgP2H8Agew67nPS6w/xJewWs49LzHA/Y/wif4DCee91jA8+UiXILLsFniM7WEHpLQHhTtQdEeFO1B0R4U7UHRHhTtQdEeFO1B0R4U7UHRHhTtQdEeFO1B0R4Uu4eks0PXcFvtHpLODl3DbbV7SDo7dA231e4h6ezQNdxWu4eks0PXcFvtHpLODl3DbbV7SDo7dA231e4h6ezQNdzWtMfM6CHp7NA13NYPtAh2cV8Cowr6l88dWq9pizZePwGbIvLv
+  </data>
+ </layer>
+ <layer name="Calque 3" width="68" height="53">
+  <data encoding="base64" compression="zlib">
+   eJzt2UtqwlAUgOG7EJ9V2zprBupyqtU+VlVthHZVfSSg6/AHCXRkvaAWbv4PfgxnlHNmwRCkv/VHIQzomm7oloaj/36r04rZcc58QY/0RM/0ktg9YnbMma9pc7fvneePxO5R7Zhn/GaHdyyYl7/useF5m9g9qh0LblFmh3fsjEPo0hX1qE+D8WXf99xidrxnPqUZPdCcFondI2bHV+ZLWtEb5bRO7B4xO34y/6Jv+qGCysTuEbNjYxJCk1rUpg51J5d933Orw46SJOk41Tek9ryHJEmSJEmSJEmS6qpO/5Uds6v3kCTp9HbHIlaH
+  </data>
+ </layer>
+ <layer name="Calque 4" width="68" height="53">
+  <data encoding="base64" compression="zlib">
+   eJztmmlOwzAQhSvWsh2GP/FvlrIfCyjLLeAo0LKcimc1I8aWnYmbhVDPJz2NiQLyG9njccRopCiKoijd83r41zPoh7o+NR/Lvfff0Xy4aD5cJJ+TYjS6L3VRxivouuhnfn2Q4vEWz+7Kd6bQA/QIPa1QPlI8vuHZOzSD5tAH9Al9QfvQuUFOTf8emrJjflXl0WcN769DG9AmtAVtQ2OzyMc94vQf5uPC/KrKo88Rnh1DJ9ApNIHOzGJdXK/I+qjy6GPXwEHhRhpbVmF9SB45dg3cFG6kseXA+13/5yEgzVHyyLE19rlwI40t/t+5qfhbf4U0R8kjx9bY78KNX+zdLcRtaAztQLvQXpn/oSDNMebxO+BhXNYcHmlssb3Mma2rxaKXuSza69dsr9hGXyzNUfLIofODR36mdNmvtXVHkOYoeeTQ+cEjP1Okfs2v26HYdT6kfkvyyJnh2dy4kcaWql4mVsPq1t26+Ziaakn9luSRI9Wiql4mVLdDsWk+5qZaUr+VcibEalEb58ct5nPH1qa/j14Ow/srtAaakOIxVovaOD/e4OOdrU1/H9l8hPZXaA00IcVjrBZ1cd/395HNh1Xd/bUsKR5jtSh0F24K9UC0nykftJ9jPVJTUjzGalHoLtwU6oFoP1M+aD/HeqSm9OkxBaqXsf08tHti11C9jO3nod0Tu4bqZWw/d1VPhwrVy9h+7qqeDpXQPTMUcyH0vc4f51hP+fc6f5xjPeXf6/xxjvWUf6/zx7nW09g4p3qqKIqiKLmTy//TWep41Xykv7MqaD5cNB8uOXldlh84QXFk
+  </data>
+ </layer>
+</map>
