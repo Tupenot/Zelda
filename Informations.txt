@@ -1,0 +1,5 @@
+La dernière version du projet avant le dépôt final est : ZeldaVersionFinale.zip
+La version contenant des commentaires mais pas à jour est : Commentaires.zip
+Le reste n'est plus à jour et ne peut pas être supprimé/modifié par manque de temps : Zelda/src/game
+
+PS : On adore les bonnes notes, donc n'hésitez pas !
