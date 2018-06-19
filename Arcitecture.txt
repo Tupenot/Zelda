@@ -1,6 +1,0 @@
-Architecture 
--model : une classe personnage qui regroupe le personnage principal et les ennemis avec leur point commun, une classe spécifique au personnage principal, une classe spécifique pour les ennemis, une classe pour les collisions des maps, une classe pour les armes regroupant l’arc et l’épée une classe pour chacun des armes, et une classe pour les objets dont le bouclier par exemple
--vue : une classe pour le personnage lorsqu’il se déplace dans 4 direction (haut bas gauche droite) et son image associe, c’est pareil pour les ennemis et pour les maps (dans le cas des maps il n’y a pas de déplacement)
--contrôleur :  c’est le contrôleur qui s’occupe du changement de map. Il fait apparaitre le personnage sur les maps avec des positions predefinits et les ennemis aussi
--launch : c’est la classe main qui lance le jeu.
--ressources : images de chaque map plus celles du personnages (haut bas gauche droite) et celle des ennemis, il y a aussi l’icône du jeu et les cœurs.
